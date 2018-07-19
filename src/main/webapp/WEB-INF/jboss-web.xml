@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jboss-web>
+    <security-domain>${security_domain_realm}</security-domain>
+    ${server_instance_XML_expresion}
+    ${virtual_host_XML_expresion}
+</jboss-web>
